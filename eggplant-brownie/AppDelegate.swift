@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  eggplant-brownie
 //
-//  Created by Andriu Felipe Coelho on 23/02/19.
+//  Created by Alura on 23/02/19.
 //  Copyright © 2019 Alura. All rights reserved.
 //
 
@@ -12,6 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
+
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
